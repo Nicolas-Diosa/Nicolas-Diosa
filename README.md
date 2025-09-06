@@ -1,12 +1,12 @@
-## ¡Hola! 👋
+# ¡Hola! 👋
 
 Mi nombre es Nicolás Alejandro Diosa, estudiante de Ingeniería de sistemas de la Universidad Nacional de Colombia.
 
-# ¿En qué he programado o tengo conocimientos? 🤔
+## ¿En qué he programado o tengo conocimientos? 🤔
 
 He programado tanto en python como en java, también tengo conocimientos de C.
 
-# Áreas de interes 🗿
+## Áreas de interes 🗿
 
 Actualmente quiero aprender acerca de los siguientes temas:
 <ul>
