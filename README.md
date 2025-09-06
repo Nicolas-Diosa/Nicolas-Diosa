@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hola 👋
+Mi nombre es Nicolás Alejandro Diosa, estudiante de Ingeniería de sistemas de la Universidad Nacional de Colombia
 <!--
 **Nicolas-Diosa/Nicolas-Diosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
