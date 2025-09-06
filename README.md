@@ -1,5 +1,10 @@
 ## Hola 👋
-Mi nombre es Nicolás Alejandro Diosa, estudiante de Ingeniería de sistemas de la Universidad Nacional de Colombia
+
+Mi nombre es Nicolás Alejandro Diosa, estudiante de Ingeniería de sistemas de la Universidad Nacional de Colombia.
+
+## ¿En qué he programado o tengo conocimientos? 🤔
+
+He programado tanto en python como en java, también tengo conocimientos de C.
 <!--
 **Nicolas-Diosa/Nicolas-Diosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
