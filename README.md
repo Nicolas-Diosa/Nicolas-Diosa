@@ -2,11 +2,11 @@
 
 Mi nombre es Nicolás Alejandro Diosa, estudiante de Ingeniería de sistemas de la Universidad Nacional de Colombia.
 
-## ¿En qué he programado o tengo conocimientos? 🤔
+### ¿En qué he programado o tengo conocimientos? 🤔
 
-He programado tanto en python como en java, también tengo conocimientos de C.
+He programado tanto en python como en java, también tengo conocimientos de C y desarrollo de aplicaciones móviles utilizando Android Studio.
 
-## Áreas de interes 🗿
+### Áreas de interes 🗿
 
 Actualmente quiero aprender acerca de los siguientes temas:
 <ul>
@@ -15,6 +15,24 @@ Actualmente quiero aprender acerca de los siguientes temas:
   <li>Computación (En general)</li>
 </ul>
 
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Lasovaro1409&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Lasovaro1409&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Lasovaro1409&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
 
 <!--
 **Nicolas-Diosa/Nicolas-Diosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
