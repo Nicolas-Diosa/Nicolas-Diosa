@@ -4,7 +4,7 @@ Mi nombre es Nicolás Alejandro Diosa, estudiante de Ingeniería de sistemas de 
 
 ### ¿En qué he programado o tengo conocimientos? 🤔
 
-He programado tanto en python <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/14a59a3f-f8b2-4bb2-94bc-197046df2efe" />
+He programado tanto en python <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/7878dc67-b84a-487d-9d74-5ebce3ff5167" />
  como en java <img width="15" height="30" alt="image" src="https://github.com/user-attachments/assets/471bbb41-83a5-479a-9b48-b4d62e57028e" />
 , también tengo conocimientos de C <img width="19" height="21" alt="image" src="https://github.com/user-attachments/assets/7829fac9-b8cd-444d-925e-3ed2d939c698" />
  y desarrollo de aplicaciones móviles utilizando Android Studio <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/2fde7f0f-abe9-428a-9e81-50c9fe1077ae" />
